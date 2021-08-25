@@ -18,7 +18,7 @@
 
 #### 相关资料
 
-[Reactive模式在Trip.com消息推送平台上的实践](https://mp.weixin.qq.com/s/gQYZGQVwqWF3LOH51JAOwg)
+[Reactive SIG Material](./doc/Reactive/SIG_MATERIAL.md)
 
 ### RPC中间件SIG
 
@@ -32,9 +32,7 @@ RPC中间件正处在关键的转型时期，轻SDK模式符合云原生的发�
 
 #### 相关资料
 
-[dubbo社区周会纪要](https://www.yuque.com/apache-dubbo/java-minutes/ua5g7f)
-
-[dubbo3多实例支持方案](https://www.yuque.com/apache-dubbo/dubbo3/wz70lz)
+[RPC SIG Material](./doc/RPC/SIG_MATERIAL.md)
 
 ### 云原生中间件SIG
 
@@ -50,9 +48,4 @@ RPC中间件正处在关键的转型时期，轻SDK模式符合云原生的发�
 
 #### 相关资料
 
-[MOSN 子项目 Layotto：开启服务网格+应用运行时新篇章](http://mosn.io/layotto/#/zh/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime/index)
-
-[分布式应用运行时](https://docs.dapr.io/zh-hans/)
-
-[不是所有的应用都需要 Service Mesh 架构
-](https://www.infoq.cn/article/ex3rr5jCByXOCX7mwJbu)
+[CloudNative SIG Material](./doc/CloudNative/SIG_MATERIAL.md)
