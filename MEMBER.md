@@ -13,7 +13,7 @@
 |zaki|关注Netty、高性能网络通信和云原生等领域，希望能随着学习的深入，成为开源社区的贡献者。|RPC/Cloud|https://github.com/ZakiFan|---|
 |慧靖|关注RPC和云原生领域，希望更多参与开源项目|RPC/Cloud|https://github.com/Huijing-Xu|---|
 |彭广|---|Reactive/RPC|https://github.com/dgzpg|---|
-|竞哲|---|---|---|---|
+|竞哲|关注中间件和云原生，希望能学习到优秀开源项目的精华，并能做出贡献|RPC/Cloud|https://github.com/JdjzV|---|
 |晨怡|---|---|---|---|
 |李晗|---|---|---|---|
 |传喜|---|---|---|---|
