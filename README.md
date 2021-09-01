@@ -26,16 +26,20 @@ Reactive技术兴趣小组资料库.
 
 [Sign up sig](./SIGN_UP_SIG.md)
 
-## 6. Meetup 资料分享
+## 6. SIG Work 小组工作库
+
+[sigs working](https://github.com/reactivegroup/sigs)
+
+## 7. Meetup 资料分享
 
 [Meetup documentation](https://github.com/reactivegroup/reactive-meetup)
 
-## 7. Articles 已发表的文章
+## 8. Articles 已发表的文章
 
 ### 反应式编程SIG
 
 + [Reactive模式在Trip.com消息推送平台上的实践](https://mp.weixin.qq.com/s/gQYZGQVwqWF3LOH51JAOwg)
 
-## 8. Contributing 贡献指南
+## 9. Contributing 贡献指南
 
 [How to contribute](./CONTRIBUTING.md)
