@@ -24,6 +24,8 @@ Reactive技术兴趣小组资料库.
 
 [指南：SIG报名](./guide/sign_up_guide.md)
 
+[新人报名必读](./guide/newcomers_guide.md)
+
 [Sign up sig](./SIGN_UP_SIG.md)
 
 ## 6. SIG Work 小组工作库
