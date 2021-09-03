@@ -76,8 +76,8 @@
 |choubobo|choubobo|
 |_2021.9.1_|_2021.9.1_|
 |huicando|huicando|
-
----
+|RaydroidX|RaydroidX|
+|...|...|
 
 ### 3. 云原生中间件SIG
 
