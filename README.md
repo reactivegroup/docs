@@ -42,6 +42,10 @@ Reactive技术兴趣小组资料库.
 
 + [Reactive模式在Trip.com消息推送平台上的实践](https://mp.weixin.qq.com/s/gQYZGQVwqWF3LOH51JAOwg)
 
+### RPC中间件SIG
+
++ [深入解析Dubbo3.0服务端暴露全流程](https://mp.weixin.qq.com/s/nEhvPl7IWlQU2VfpXwZtOw)
+
 ## 9. Contributing 贡献指南
 
 [How to contribute](./CONTRIBUTING.md)
