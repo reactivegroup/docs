@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://groups.google.com/g/reactive-group">
-    <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter Chat">
-  </a>
+  <a href="https://groups.google.com/g/reactive-group">Google Group</a>
+  ·
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
 </p>
 
@@ -91,7 +90,7 @@
 
 ### 我们在寻找什么样的成员？
 
-我们希望找到的是：**对技术有追求、能够一同进步的同行者**，而不是只来索取而不付出的"技术白嫖客"。
+我们希望找到的是：**对技术有追求、愿意分享实践并共同进步的同行者**。成员既可以从社区获得帮助，也应愿意投入时间参与学习、讨论和贡献。
 
 ### 加入条件（满足其一即可）
 
@@ -136,6 +135,13 @@
 - [SIG工作库](https://github.com/reactivegroup/sigs)
 - [Meetup资料](https://github.com/reactivegroup/reactive-meetup)
 - [贡献指南](./CONTRIBUTING.md)
+
+### 5. 技术资料
+- [技术资料目录](./doc/README.md)
+- [Reactive SIG 资料](./doc/Reactive/SIG_MATERIAL.md)
+- [RPC SIG 资料](./doc/RPC/SIG_MATERIAL.md)
+- [云原生 SIG 资料](./doc/CloudNative/SIG_MATERIAL.md)
+- [新人与报名指南索引](./guide/README.md)
 
 ---
 
